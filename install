@@ -1,0 +1,17 @@
+sudo apt-get update 
+sudo apt-get upgrade -y
+sudo apt-get install python-pip
+sudo pip install Flask
+vi helloworld.py
+## press “i” to enter the INSERT mode. Add the code, then press “escape” to leave INSERT mode to go into COMMAND mode. #Finally type “:wq” to save and exit VIM
+from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+def hello():
+    return "Hello World!"
+
+if __name__ == "__main__":
+    app.run()
+python helloworld.py
+check at terminal. like: http://127.0.0.1:5000/
