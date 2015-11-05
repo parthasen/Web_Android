@@ -1,6 +1,5 @@
 sudo apt-get update 
-sudo apt-get upgrade -y
-sudo apt-get install python-pip
+sudo apt-get install -y python python-pip python-virtualenv nginx gunicorn
 sudo pip install Flask
 vi helloworld.py
 ## press “i” to enter the INSERT mode. Add the code, then press “escape” to leave INSERT mode to go into COMMAND mode. #Finally type “:wq” to save and exit VIM
@@ -15,3 +14,6 @@ if __name__ == "__main__":
     app.run()
 python helloworld.py
 check at terminal. like: http://127.0.0.1:5000/
+
+https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/
+https://realpython.com/#course-packages
