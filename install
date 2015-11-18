@@ -7,9 +7,9 @@ sudo apt-get install python-pip
 virtualenv --version
 mkdir pyflask # already made
 cd pyflask
-virtualenv pf
+virtualenv pf #already done
 . pf/bin/activate
-pip install Flask
+pip install Flask #ALREADY DONE
 
 vi helloworld.py
 ## press “i” to enter the INSERT mode. Add the code, then press “escape” to leave INSERT mode to go into COMMAND mode. #Finally type “:wq” to save and exit VIM
