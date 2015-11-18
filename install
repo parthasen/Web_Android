@@ -1,6 +1,16 @@
 sudo apt-get update 
-sudo apt-get install -y python python-pip python-virtualenv nginx gunicorn
-sudo pip install Flask
+##sudo apt-get install -y python python-pip python-virtualenv nginx gunicorn
+##sudo pip install Flask
+#http://flask.pocoo.org/docs/0.10/installation/
+sudo apt-get install python-virtualenv
+sudo apt-get install python-pip
+virtualenv --version
+mkdir pyflask # already made
+cd pyflask
+virtualenv pf
+. pf/bin/activate
+pip install Flask
+
 vi helloworld.py
 ## press “i” to enter the INSERT mode. Add the code, then press “escape” to leave INSERT mode to go into COMMAND mode. #Finally type “:wq” to save and exit VIM
 from flask import Flask
