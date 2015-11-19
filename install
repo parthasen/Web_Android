@@ -31,8 +31,9 @@ git config user.name = 'parthasen'
 git config user.email ='research@parthasen.net'
 git status
 atom .gitignore
-
-
+#####################https://github.com/fromzeroedu
+git add .
+git commit -m "First commit"
 
 https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/
 https://realpython.com/#course-packages
