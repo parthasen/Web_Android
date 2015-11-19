@@ -25,5 +25,14 @@ if __name__ == "__main__":
 python helloworld.py
 check at terminal. like: http://127.0.0.1:5000/
 
+sudo apt-get install git
+git init
+git config user.name = 'parthasen'
+git config user.email ='research@parthasen.net'
+git status
+atom .gitignore
+
+
+
 https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/
 https://realpython.com/#course-packages
