@@ -1,0 +1,6 @@
+#https://github.com/realpython/flask-stock-visualizer
+#load the zip ( already at /home/octo/pyflask/stock_vis
+# Extraction done at stock_vis folder
+python '/home/octo/pyflask/stock_vis/app.py'# correctly done tested
+
+
