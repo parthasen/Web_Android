@@ -1,1 +1,16 @@
 #https://c9.io/parthasen (parthasen,parthasen2012)
+#workspace
+cd flask_ud_ubuntu#https://ide.c9.io/parthasen/flask_ud_ubuntu#openfile-README.md
+#folder
+cd flask_init
+sudo apt-get install Python3 # needed as python2 is default
+sudo pip install virtualenv # needed if virtualenv command is not loaded
+virtualenv -p python3 venv # virtual environment created
+source venv/bin/activate
+deactivate
+python -V
+#Setting PATH
+flask_init>lib>site packages <- right click >new terminal>pwd>copy path>gear>languages support>PYTHONPATH>paste after :
+
+
+
