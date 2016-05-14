@@ -11,3 +11,7 @@ deactivate
 python -V
 #Setting PATH
 flask_init>lib>site packages <- right click >new terminal>pwd>copy path>gear>languages support>PYTHONPATH>paste after :
+
+#AWS 
+https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80#.munjrwpnm
+https://www.youtube.com/watch?v=3HuYr6G2Z28
