@@ -11,6 +11,3 @@ deactivate
 python -V
 #Setting PATH
 flask_init>lib>site packages <- right click >new terminal>pwd>copy path>gear>languages support>PYTHONPATH>paste after :
-
-
-
