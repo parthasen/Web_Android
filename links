@@ -175,3 +175,19 @@ http://neo4j.com/blog/building-python-web-application-using-flask-neo4j/
 ## below for STOCK market
 https://realpython.com/blog/python/web-development-with-flask-fetching-data-with-requests/
 http://www.shanelynn.ie/asynchronous-updates-to-a-webpage-with-flask-and-socket-io/
+https://www.reddit.com/r/flask/comments/1esz3x/how_to_implement_a_payment_gatewayprocess_in/
+https://github.com/humiaozuzu/awesome-flask
+
+****PAYMENT
+https://pypi.python.org/pypi?%3Aaction=search&term=payment&submit=search
+https://github.com/jgumbley/flask-payment
+https://stripe.com/docs/checkout/flask
+https://stripe.com/us/pricing
+https://github.com/stripe/stripe-python
+http://github.com/LeonigMig/flask-payment
+http://github.com/LeonigMig/flask-payment/blob/master/examples/hello.py
+https://jeffknupp.com/blog/2014/01/18/python-and-flask-are-ridiculously-powerful/
+http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xi-email-support
+
+****MAIL
+http://flask.pocoo.org/snippets/85/
