@@ -11,11 +11,6 @@ def hello():
 if __name__ == "__main__":
     app.run()
 
-
-
-
-
-
 http://www.tutorialspoint.com/flask/flask_tutorial.pdf
 https://ep2013.europython.eu/media/conference/slides/how-python-is-used-at-hyves.pdf
 https://pythonhosted.org/Flask-WeasyPrint/
@@ -29,3 +24,12 @@ http://www.marmakoide.org/download/teaching/asd/asd-flask-tutorial.pdf
 http://cdn.cs50.net/2015/fall/seminars/flask/flask.pdf
 http://www.marmakoide.org/download/teaching/asd/asd-flask-tutorial.pdf
 https://channel9.msdn.com/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/01
+
+###### PyCon 2015 Miguel Grinberg
+#source activate PyAlgo
+cd pyflask
+cd app1
+git clone https://github.com/miguelgrinberg/flask-pycon2015.git
+cd flask-pycon2015
+git checkout v0.1
+
