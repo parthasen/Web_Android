@@ -32,4 +32,7 @@ cd app1
 git clone https://github.com/miguelgrinberg/flask-pycon2015.git
 cd flask-pycon2015
 git checkout v0.1
+python app.py
+git checkout v0.2# change version henceforth app.py file also
+
 
