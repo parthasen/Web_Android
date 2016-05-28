@@ -1,0 +1,30 @@
+MYSQL
+http://flask-mysqldb.readthedocs.io/en/latest/
+
+http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
+http://codehandbook.org/python-web-application-development-using-flask-and-mysql/
+http://techarena51.com/index.php/flask-sqlalchemy-tutorial/
+
+pip install flask-mysqldb
+pip install Flask-MySQL
+pip install flask-mysql
+conda install -c anaconda mysql-connector-python=2.0.3
+sudo  apt-get install mysql-server-5.6
+
+mysql --user=root -p
+show databases;
+CREATE DATABASE app1;
+CREATE DATABASE pythonprogramming;
+USE pythonprogramming;
+CREATE TABLE users (uid INT(11) AUTO_INCREMENT PRIMARY KEY, username VARCHAR(20), password VARCHAR(100), email VARCHAR(50), settings VARCHAR(32500), tracking VARCHAR(32500), rank INT(3));
+DESCRIBE users;
+
+## interact with a MySQL database 
+sudo apt-get install python-MySQLdb
+
+MONGO
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
+echo "deb http://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.2 multiverse" 
+sudo apt-get update
+
