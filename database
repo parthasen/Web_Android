@@ -4,6 +4,7 @@ https://help.ubuntu.com/lts/serverguide/mysql.html
 http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
 http://codehandbook.org/python-web-application-development-using-flask-and-mysql/
 http://techarena51.com/index.php/flask-sqlalchemy-tutorial/
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-14-04https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-14-04
 
 pip install flask-mysqldb
 pip install Flask-MySQL
