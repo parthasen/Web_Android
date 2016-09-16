@@ -19,8 +19,10 @@ CREATE TABLE User (uid INT(11) AUTO_INCREMENT PRIMARY KEY, username VARCHAR(20),
 DESCRIBE users;
 insert into User values('','Admin','admin','');
 
+***
 /home/octo/pyflask/psdotnet/app/
 __init__.py
+***
 
 from flask import Flask
 from flaskext.mysql import MySQL
@@ -51,3 +53,4 @@ def Authenticate():
  
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5002, debug=True)
+***
