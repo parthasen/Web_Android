@@ -4,11 +4,10 @@ sudo pip install peewee
 
 https://www.youtube.com/watch?v=FGrIyBDQLPg
 https://github.com/miguelgrinberg/flask-pycon2014
-
-
 https://www.youtube.com/watch?v=tdIIJuPh3SI
 
-
+#see psdotnet APP
+/home/octo/pyflask/psdotnet
  #user root pwd=alpha
  mysql --user=root -p
  #DATABASE creation
