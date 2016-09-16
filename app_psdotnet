@@ -19,6 +19,8 @@ CREATE TABLE User (uid INT(11) AUTO_INCREMENT PRIMARY KEY, username VARCHAR(20),
 DESCRIBE users;
 insert into User values('','Admin','admin','');
 
+/home/octo/pyflask/psdotnet/app/
+__init__.py
 
 from flask import Flask
 from flaskext.mysql import MySQL
@@ -26,14 +28,26 @@ from flaskext.mysql import MySQL
 mysql = MySQL()
 app = Flask(__name__)
 app.config['MYSQL_DATABASE_USER'] = 'root'
-app.config['MYSQL_DATABASE_PASSWORD'] = 'root'
-app.config['MYSQL_DATABASE_DB'] = 'EmpData'
+app.config['MYSQL_DATABASE_PASSWORD'] = 'alpha'
+app.config['MYSQL_DATABASE_DB'] = 'psdotnet'
 app.config['MYSQL_DATABASE_HOST'] = 'localhost'
 mysql.init_app(app)
  
 @app.route("/")
 def hello():
     return "Welcome to Python Flask App!"
+
+@app.route("/Authenticate")
+def Authenticate():
+    username = request.args.get('Admin')
+    password = request.args.get('admin')
+    cursor = mysql.connect().cursor()
+    cursor.execute("SELECT * from User where Username='" + username + "' and Password='" + password + "'")
+    data = cursor.fetchone()
+    if data is None:
+     return "Username or Password is wrong"
+    else:
+     return "Logged in successfully"
  
 if __name__ == "__main__":
-    app.run()
+    app.run(host='0.0.0.0', port=5002, debug=True)
