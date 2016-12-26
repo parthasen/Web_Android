@@ -1,3 +1,55 @@
+https://github.com/humiaozuzu/awesome-flask
+
+SLACK or chat
+***
+https://github.com/mattmakai/slack-api-python-examples/blob/master/twilio/twiliobot.py
+https://github.com/mattmakai/taskrouter-multi-channel-support-desk
+https://github.com/mattmakai/TwilioSheet
+https://realpython.com/blog/python/getting-started-with-the-slack-api-using-python-and-flask/
+https://medium.com/@julianmartinez/how-to-write-a-slack-bot-with-python-code-examples-4ed354407b98#.a2ma5kn7z
+
+FB chat
+***
+https://pypi.python.org/pypi/fbbotw/1.0.0
+
+Voting
+***
+https://github.com/mattmakai/choose-your-own-adventure-presentations
+
+
+
+Handling Email Confirmation During Registration in Flask 
+***
+https://realpython.com/blog/python/handling-email-confirmation-in-flask/
+
+
+The Ultimate Flask Front-End 
+***
+https://realpython.com/blog/python/the-ultimate-flask-front-end/
+
+
+Payment
+***
+https://github.com/jdiez17/flask-paypal
+https://pypi.python.org/pypi/flask-paypal/0.1.0
+
+
+
+
+Tutorial
+***
+https://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/
+https://realpython.com/blog/categories/flask/
+https://github.com/realpython/flask-by-example
+https://github.com/realpython/flask-by-example
+https://github.com/realpython
+https://github.com/realpython/flask-skeleton
+https://github.com/humiaozuzu/awesome-flask
+https://github.com/realpython/discover-flask
+
+
+
+
 python
 python3
 idle
@@ -11,7 +63,7 @@ http://showmedo.com/videotutorials/python
 http://learnpythonthehardway.org/book/
 http://mysql-python.sourceforge.net/MySQLdb.html
 
-http://www.pixelmonkey.org/2012/06/14/web-app
+
 
 http://stoneriverelearning.com/courses/python-web-programming-course 
 https://www.udemy.com/python-flask-course/
