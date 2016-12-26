@@ -1,5 +1,15 @@
 https://github.com/humiaozuzu/awesome-flask
 
+Form
+***
+http://wtforms.simplecodes.com/docs/1.0.2/crash_course.html
+http://stackoverflow.com/questions/12277933/send-data-from-a-textbox-into-flask
+
+Database
+***
+https://pymodm.readthedocs.io/en/latest/getting-started.html
+
+
 SLACK or chat
 ***
 https://github.com/mattmakai/slack-api-python-examples/blob/master/twilio/twiliobot.py
@@ -7,6 +17,7 @@ https://github.com/mattmakai/taskrouter-multi-channel-support-desk
 https://github.com/mattmakai/TwilioSheet
 https://realpython.com/blog/python/getting-started-with-the-slack-api-using-python-and-flask/
 https://medium.com/@julianmartinez/how-to-write-a-slack-bot-with-python-code-examples-4ed354407b98#.a2ma5kn7z
+http://readwrite.com/2014/07/11/one-click-messaging-app/
 
 FB chat
 ***
@@ -15,6 +26,7 @@ https://pypi.python.org/pypi/fbbotw/1.0.0
 Voting
 ***
 https://github.com/mattmakai/choose-your-own-adventure-presentations
+http://stackoverflow.com/questions/29517223/long-polling-in-python-with-flask
 
 
 
@@ -33,21 +45,33 @@ Payment
 https://github.com/jdiez17/flask-paypal
 https://pypi.python.org/pypi/flask-paypal/0.1.0
 
-
-
+REST API
+***
+http://eon01.com/blog/creating-a-flask-based-restful-api-and-deploying-it-to-aws-ec2-instance/
+https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 
 Tutorial
 ***
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+http://flask.pocoo.org/docs/0.12/
 https://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/
+http://www.vertabelo.com/blog/technical-articles/web-app-development-with-flask-sqlalchemy-bootstrap-introduction
+https://porter.io/github.com/humiaozuzu/awesome-flask
 https://realpython.com/blog/categories/flask/
+http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/#.WGFw__B97IV
+https://exploreflask.com/en/latest/
 https://github.com/realpython/flask-by-example
 https://github.com/realpython/flask-by-example
 https://github.com/realpython
 https://github.com/realpython/flask-skeleton
 https://github.com/humiaozuzu/awesome-flask
 https://github.com/realpython/discover-flask
-
+http://flask-appbuilder.readthedocs.io/en/latest/
+https://github.com/dpgaspar/Flask-AppBuilder/tree/master/examples
+http://flask-appbuilder.readthedocs.io/en/latest/
+https://github.com/dpgaspar/flask-appbuilder/
+https://pypi.python.org/pypi/Flask-AppBuilder/1.4.5
+http://www.enigmeta.com/blog/starting-flask/
 
 
 
@@ -107,11 +131,27 @@ http://code.tutsplus.com/tutorials/intro-to-flask-adding-a-contact-page--net-289
 http://stackoverflow.com/questions/12277933/send-data-from-a-textbox-into-flask
 http://stackoverflow.com/questions/19213226/how-to-html-input-to-flask
 http://stackoverflow.com/questions/11009051/how-to-get-the-text-input-given-by-a-user-for-an-html-page-through-python
+http://flask.pocoo.org/docs/0.10/patterns/fileuploads/
+http://flask.pocoo.org/docs/0.10/quickstart/
+http://flask.pocoo.org/docs/0.10/quickstart/#accessing-request-data
 http://pythonthusiast.pythonblogs.com/230_pythonthusiast/archive/1317_flask_biography_tutorial_part_vii__adding_sign_in_form_using_bootstrap_3_and_login_feature_using_flask-login.html
+http://docs.mongodb.org/ecosystem/tutorial/write-a-tumblelog-application-with-flask-mongoengine/
+https://www.safaribooksonline.com/library/view/flask-web-development/9781491947586/ch04.html
+http://stackoverflow.com/questions/23557063/passing-value-from-a-drop-down-menu-to-a-flask-template
+http://stackoverflow.com/questions/26879790/flask-python-passing-dropdown-list-choice-into-function
+http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiii-dates-and-times
+https://pypi.python.org/pypi/Flask-AppBuilder/1.4.5
 https://www.jetbrains.com/pycharm/help/creating-flask-project.html
 https://96chan.wordpress.com/2014/02/02/designingdeveloping-a-survey-webpage-built-with-flask-python/
 http://www.fullstackpython.com/flask.html
 https://github.com/yangsiy/Plask
+http://www.meetup.com/pdxpython/events/162275732/
+https://github.com/realpython/flask-by-example/releases
+
+http://www.sixfeetup.com/blog/4-python-web-frameworks-compared
+https://www.quora.com/Should-I-learn-Flask-or-Django
+https://wakatime.com/django-vs-flask-worksheet
+http://www.vertabelo.com/blog/technical-articles/web-app-development-with-flask-sqlalchemy-bootstrap-introduction
 
 https://pypi.python.org/pypi/virtualenv
 https://docs.python.org/2/tutorial/index.html
@@ -182,8 +222,11 @@ Google App Engine
 client side(HTML5(HTML+CSS+JAVAScript))
 serverside(python+java)
 
+http://code.tutsplus.com/courses/custom-interactive-maps-with-the-google-maps-api
+
 POLL
 http://code-maven.com/a-polling-station-with-flask
+http://stackoverflow.com/questions/29517223/long-polling-in-python-with-flask
 http://flask.pocoo.org/community/poweredby/
 SAMPLE
 https://github.com/sfermigier/Planet-GTLL
@@ -244,6 +287,13 @@ https://github.com/makaimc/choose-your-own-adventure-presentations
 https://www.twilio.com/blog/2014/11/choose-your-own-adventure-presentations-with-reveal-js-python-and-websockets.html
 
 ***
+http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/#.WC31Yhp97IU
+https://porter.io/github.com/humiaozuzu/awesome-flask
+http://readwrite.com/2014/07/11/one-click-messaging-app/
+https://exploreflask.com/en/latest/
+http://eon01.com/blog/creating-a-flask-based-restful-api-and-deploying-it-to-aws-ec2-instance/
+http://www.enigmeta.com/blog/starting-flask/
+https://nickjanetakis.com/products/build-a-saas-app-with-flask
 https://flaskbook.com/
 https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications
 https://talkpython.fm/episodes/show/48/building-flask-based-web-apps
