@@ -1,15 +1,22 @@
-https://github.com/humiaozuzu/awesome-flask
+Building flask website and embeding a .js graph 
+*******
 
-Template
+
+Flask template (using jinja,js,css)
+***
+http://flask.pocoo.org/docs/0.12/tutorial/templates/
+
+
+Flask login/OpenID
 ***
 
 
-Form
+Form: WTForms
 ***
 http://wtforms.simplecodes.com/docs/1.0.2/crash_course.html
 http://stackoverflow.com/questions/12277933/send-data-from-a-textbox-into-flask
 
-Database
+Database: SQLite,MySql,Mongo
 ***
 https://pymodm.readthedocs.io/en/latest/getting-started.html
 
@@ -77,28 +84,11 @@ https://github.com/dpgaspar/flask-appbuilder/
 https://pypi.python.org/pypi/Flask-AppBuilder/1.4.5
 http://www.enigmeta.com/blog/starting-flask/
 https://www.tutorialspoint.com/flask/index.htm
-
-
-python
-python3
-idle
-https://www.python.org/
-https://docs.python.org/2/tutorial/
-https://wiki.python.org/moin/BeginnersGuide
-http://showmedo.com/videotutorials/python
-http://learnpython.pbworks.com/w/page/15956534/HowToStart
-http://www.openbookproject.net/thinkcs/python/english2e/app_c.html
-http://showmedo.com/videotutorials/python
-http://learnpythonthehardway.org/book/
-http://mysql-python.sourceforge.net/MySQLdb.html
-
-
-
-http://stoneriverelearning.com/courses/python-web-programming-course 
-https://www.udemy.com/python-flask-course/
-http://www.lynda.com/Developer-Web-Development-tutorials/Up-Running-Python-Django/386287-2.html?srchtrk=index:1%0Alinktypeid:2%0Aq:python%0Apage:1%0As:relevance%0Asa:true%0Aproducttypeid:2
-https://www.udemy.com/coding-for-entrepreneurs/
-http://wn.com/flask_tutorial_web_development_with_python_4_starting_the_homepage
+https://github.com/humiaozuzu/awesome-flask
+https://tutsplus.com/authors/shalabh-aggarwal
+https://www.udemy.com/python-flask-course/learn/v4/overview (par...aol.in,par..12)
+https://wn.com/flask_tutorial_web_development_with_python_4_starting_the_homepage
+***
 https://www.microsoftvirtualacademy.com/en-US/training-courses/introduction-to-creating-websites-using-python-and-flask-8677?l=sNshpAH1_8604984382
 https://azure.microsoft.com/en-us/documentation/articles/web-sites-python-create-deploy-flask-app/
 https://azure.microsoft.com/en-us/documentation/articles/documentdb-python-application/
