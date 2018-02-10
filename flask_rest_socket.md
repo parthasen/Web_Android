@@ -2,7 +2,8 @@
     https://tutorials.technology/tutorials/59-Start-a-flask-project-from-zero-building-api-rest.html
     https://github.com/kennethreitz/flask-sockets
     https://stackoverflow.com/questions/23111654/websockets-in-flask
-
+    https://gist.github.com/pgjones/eb64cc1cc18f51c2a7df#file-app-py
+    
     https://blog.miguelgrinberg.com/post/video-streaming-with-flask
 
     https://strendly.wordpress.com/2016/06/25/building-your-own-streaming-api-in-python/
