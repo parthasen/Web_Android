@@ -16,6 +16,7 @@
     https://gist.github.com/fengsp/19e1890fd80e16edc8a4
 
     https://stackoverflow.com/questions/13386681/streaming-data-with-python-and-flask
+    https://stackoverflow.com/questions/41443676/how-do-i-stream-data-through-a-flask-application
 
     https://mortoray.com/2014/03/04/http-streaming-of-command-output-in-python-flask/
 
